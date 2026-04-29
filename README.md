@@ -270,7 +270,7 @@ Important limitations:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/cfpb-complaint-operations-analysis.git
+git clone https://github.com/Rajdeepgohil16/cfpb-complaint-operations-analysis.git
 cd cfpb-complaint-operations-analysis
 ```
 
